@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello and welcome to my simple profile. I am a 42-year-old geek living in Norway with experience in it-support and small electronics repair. Currently, I try to change my career path to programming. Yes, even though AI will take those jobs in a few years ;)
+Hello and welcome to my simple profile. I am a 42-year-old geek living in Norway with work experience in it-support and small electronics repair. Currently, I try to change my career path to programming. Yes, even though AI will take those jobs in a few years ;)
 
 
 ## 🌐 Socials:
